@@ -6,3 +6,7 @@ body {
     // font-weight: <weight>;
     font-style: normal;
 }
+
+.accordion-button:focus {
+    box-shadow: unset;
+}
